@@ -1,0 +1,22 @@
+{
+  "name": "agile-jira-tutors-course",
+  "version": "1.0.0",
+  "description": "<p align=\"center\">   <a href=\"https://tutors.dev\">     <img src=\"./tutors-light.png\"   </a> </p>",
+  "main": "index.js",
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Fortune-Ndlovu/agile-jira-tutors-course.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Fortune-Ndlovu/agile-jira-tutors-course/issues"
+  },
+  "homepage": "https://github.com/Fortune-Ndlovu/agile-jira-tutors-course#readme"
+}
