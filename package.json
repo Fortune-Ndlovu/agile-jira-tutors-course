@@ -1,10 +1,10 @@
 {
   "name": "agile-jira-tutors-course",
   "version": "1.0.0",
-  "description": "<p align=\"center\">   <a href=\"https://tutors.dev\">     <img src=\"./tutors-light.png\"   </a> </p>",
+  "description": "Agile Jira Tutors Course",
   "main": "index.js",
   "scripts": {
-    "build": "react-scripts build",
+    "build": "npx tutors-publish",
     "start": "react-scripts start"
   },
   "repository": {
@@ -16,21 +16,9 @@
   "bugs": {
     "url": "https://github.com/Fortune-Ndlovu/agile-jira-tutors-course/issues"
   },
-  "homepage": "/",
+  "homepage": "https://tutors.dev/course/",
   "dependencies": {
     "react-scripts": "^5.0.1"
-  },
-  "browserslist": {
-    "production": [
-      ">0.2%",
-      "not dead",
-      "not op_mini all"
-    ],
-    "development": [
-      "last 1 chrome version",
-      "last 1 firefox version",
-      "last 1 safari version"
-    ]
   },
   "devDependencies": {
     "@babel/plugin-proposal-private-property-in-object": "^7.21.11"
