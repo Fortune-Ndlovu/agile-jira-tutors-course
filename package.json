@@ -16,7 +16,7 @@
   "bugs": {
     "url": "https://github.com/Fortune-Ndlovu/agile-jira-tutors-course/issues"
   },
-  "homepage": "https://agile-jira-tutors-course.netlify.app/",
+  "homepage": "/",
   "dependencies": {
     "react-scripts": "^5.0.1"
   },
